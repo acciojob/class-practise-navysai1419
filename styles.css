@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
- p.paragraph1, p.paragraph3{
+ .styled-paragraph{
     color: #00f;
     background-color: #eee;
     font-family: Arial;
